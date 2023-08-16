@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4a2cb55.css",
+    "main.js": "/static/js/main.2225d6b6.js",
+    "static/media/LogoIpsum2.svg": "/static/media/LogoIpsum2.c2d4e18707f5ce648f8a247ea6f6cfee.svg",
+    "static/media/ipsumIcon.svg": "/static/media/ipsumIcon.7a0b56295ad60cfe7c809e9cf22c09cf.svg",
+    "index.html": "/index.html",
+    "main.f4a2cb55.css.map": "/static/css/main.f4a2cb55.css.map",
+    "main.2225d6b6.js.map": "/static/js/main.2225d6b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a2cb55.css",
+    "static/js/main.2225d6b6.js"
+  ]
+}
